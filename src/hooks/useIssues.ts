@@ -75,7 +75,7 @@ const mockIssues: Issue[] = [
       lng: -73.9851,
       address: '456 Park Avenue, New York, NY'
     },
-    images: ['https://images.pexels.com/photos/2827392/pexels-photo-2827392.jpeg?w=500'],
+    images: ['https://static.toiimg.com/thumb/msid-120174429,imgsize-110858,width-400,height-225,resizemode-72/Garbage-overflow-at-RMC-points-sparks-outrage-in-Mohali.jpg'],
     reportedBy: {
       id: '2',
       name: 'Jane Smith',
@@ -111,7 +111,7 @@ const mockIssues: Issue[] = [
       lng: -73.9934,
       address: '789 Broadway, New York, NY'
     },
-    images: ['https://images.pexels.com/photos/327540/pexels-photo-327540.jpeg?w=500'],
+    images: ['https://www.shutterstock.com/image-photo/accident-on-street-broken-traffic-600nw-480536776.jpg],
     progressImages: {
       before: ['https://images.pexels.com/photos/327540/pexels-photo-327540.jpeg?w=500'],
       after: ['https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?w=500']
