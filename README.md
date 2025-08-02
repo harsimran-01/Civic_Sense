@@ -1,4 +1,5 @@
 CivicTrack 🏙️
+
 Smart Civic Platform to Report and Track Community Issues
 
 CivicTrack is a user-friendly civic engagement platform designed to help citizens report and track local issues like potholes, garbage overflow, streetlight problems, noise pollution, and more. The goal is to make communities better by enabling public participation and improving responsiveness from authorities.
@@ -60,16 +61,8 @@ Visit: http://localhost:3000
 
 
 📂 Folder Structure
-civictrack/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── styles/
-│   └── App.js
-├── README.md
-└── package.json
+<img width="1470" height="743" alt="image" src="https://github.com/user-attachments/assets/3105af56-3e01-4d01-8b1b-2d3628ad2b2d" />
+
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
